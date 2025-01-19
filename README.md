@@ -53,6 +53,3 @@ The program outputs:
 
 This project was inspired by and built with the help of [this YouTube tutorial](https://www.youtube.com/watch?v=WgPbbWmnXJ8&t). The course provided valuable insights into using YOLOv8 for object detection and tracking, which I adapted and extended to create this vehicle counter.
 
-Credits-
-This project was inspired by and built with the help of this YouTube video https://www.youtube.com/watch?v=WgPbbWmnXJ8&t. 
-The course provided valuable insights into using YOLOv8 for object detection and tracking, which I adapted and extended to create this vehicle counter.
