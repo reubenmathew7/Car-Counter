@@ -1,4 +1,4 @@
-To run this project, ensure you have Python installed and the required libraries. Install the dependencies using the requirements.txt file provided in the repository.
+ To run this project, ensure you have Python installed and the required libraries. Install the dependencies using the requirements.txt file provided in the repository.
 
 Why I Built This Project
 The primary motivation behind this project was to learn and implement object detection techniques using state-of-the-art tools like YOLOv8. 
@@ -36,5 +36,5 @@ Unique IDs assigned to each tracked vehicle.
 A displayed count of vehicles that have crossed the line.
 
 Credits
-This project was inspired by and built with the help of this YouTube video https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=5031s. 
+This project was inspired by and built with the help of this YouTube video https://www.youtube.com/watch?v=WgPbbWmnXJ8&t. 
 The course provided valuable insights into using YOLOv8 for object detection and tracking, which I adapted and extended to create this vehicle counter.
